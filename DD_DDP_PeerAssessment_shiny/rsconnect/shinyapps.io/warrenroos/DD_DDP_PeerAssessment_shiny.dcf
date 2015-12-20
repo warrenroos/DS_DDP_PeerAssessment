@@ -1,0 +1,8 @@
+name: DD_DDP_PeerAssessment_shiny
+account: warrenroos
+server: shinyapps.io
+bundleId: 335613
+url: https://warrenroos.shinyapps.io/DD_DDP_PeerAssessment_shiny
+when: 1450590084.87914
+asMultiple: FALSE
+asStatic: FALSE
