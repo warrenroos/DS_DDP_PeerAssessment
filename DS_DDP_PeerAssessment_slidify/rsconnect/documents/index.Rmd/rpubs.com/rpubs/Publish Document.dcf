@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/136256/2042753eb9814960bd1efa1153fb6750
+url: http://rpubs.com/WarrenRoos/136256
+when: 1450726846.51392

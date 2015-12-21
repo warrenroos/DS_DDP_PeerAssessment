@@ -8,6 +8,11 @@ library(shiny)
 ),
 submitButton("Submit")
 
+url         : 
+  assets: ../assets 
+
+![alt text](shinyApp.png)
+
 # shiny ui examples 
 fluidRow(
   
